@@ -1,1 +1,1 @@
-# Crowdfunding_ETL
+# Group member : Cara Boldarini, Zunyan Guo
